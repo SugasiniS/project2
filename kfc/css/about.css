@@ -1,0 +1,93 @@
+.about{
+    background-color: black;
+}
+.containera1{
+    max-width: 1250;
+    margin: auto;
+}
+.list2{
+    display: flex;
+    margin: auto;
+    color: gray;
+    padding: 10px;
+    font-size: 15px;
+    gap: 20px;
+}
+.containera2{
+    margin: auto;
+    max-width: 1250px;
+    padding-bottom: 60px;
+}
+.list3{
+    display: flex;
+    margin: auto;
+}
+.ready{
+    text-align:left;
+    margin: auto;
+    font-size: 40px;
+    padding: 28px 13px;
+
+
+}
+.point1{
+    margin: auto;
+
+    font-size: 16px;
+
+
+}
+.scroll1{
+    background-color: red;
+    text-align: center;
+    margin: auto;
+    max-width: 1000px;
+    padding: 9px 19px;
+}
+.colonel{
+    border: 2px solid white;
+    text-align: center;
+    max-width: 193px;
+    margin: auto;
+    padding: 9px 3px;
+}
+.scroll{
+    background-color: red;
+    width: 100%;
+}
+.problems{
+    font-size: 40px;
+    margin: auto;
+    padding-top: 44px;
+    padding-bottom: 42px;
+
+}
+.india{
+padding-top: 60px;
+
+    
+}
+.cardcontainer{
+    max-width: 1250px;
+    margin: auto;
+}
+.card{
+    display: flex;
+    margin: auto;
+    text-align: center;
+    padding-top: 89px;
+    gap: 16px;
+}
+.card1{
+    width: 25%;
+    margin: auto;
+    border: 2px;
+    background-color: D8D9CF;
+    border-radius: 7%;
+    padding: 36px 5px 8px 7px;
+}
+.kfc_india{
+    font-size: 30px;
+    margin: auto;
+    text-align: left;
+}
